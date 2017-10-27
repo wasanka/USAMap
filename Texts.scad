@@ -1,0 +1,1 @@
+import("drawing-1.dxf", convexity=3);
